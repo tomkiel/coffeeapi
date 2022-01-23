@@ -9,7 +9,7 @@ Desenvolvido como forma de estudos, aberto e Livre.
 ## Contribuição
 coffeeApi é Open Source, e nós encorajamos novas contribuições. Em breve disponibilizaremos nosso guia de contribuições.
 
-#### Para executar o dotnet em ambiente Ubuntu 20.04
+### Para executar o dotnet em ambiente Ubuntu 20.04
 Abra um terminal e execute os seguintes comandos:
 
 ~~~
