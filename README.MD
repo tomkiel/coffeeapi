@@ -1,9 +1,15 @@
 # CoffeApp
 
-## Documentação do programa.
+## Sobre coffeeApi.
+
+coffeeApi é uma aplicação web para gestão de café para os profissionais de TI do mundo todo.
+Programa escrito com C# rodando na plataforma .NET com dotnet.
+Desenvolvido como forma de estudos, aberto e Livre.
+
+## Contribuição
+coffeeApi é Open Source, e nós encorajamos novas contribuições. Em breve disponibilizaremos nosso guia de contribuições.
 
 #### Para executar o dotnet em ambiente Ubuntu 20.04
-
 Abra um terminal e execute os seguintes comandos:
 
 ~~~
@@ -41,8 +47,11 @@ O projeto vai ser carregado na URL: <http://localhost:5166>
 
 
 
+## Licença
 
+O coffeeApi is open-sourced software licensed under the [MIT license](https://raw.githubusercontent.com/getfalafel/falafel/main/LICENSE).
 
-##### Desenvolvido por:
+##### Developers
+
 * Cleomar Schmitzhaus
 * Régis Tomkiel
